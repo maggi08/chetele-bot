@@ -22,8 +22,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-/sitespeed-result
-/statoscope-result
-
-dev-config-states.js
